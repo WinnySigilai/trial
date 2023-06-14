@@ -1,0 +1,149 @@
+nav {
+    width: 1200px;
+    height: 80px;
+    padding: 20px;
+margin-left:300px ;
+margin-right: 300px;
+text-decoration: 0;
+font-size: xx-large;
+list-style: none;
+box-sizing: border-box;
+background-color: #03031b;
+text-align: center;
+color: aliceblue;
+
+}
+
+.body {
+        font-family: Arial, Helvetica, sans-serif;
+        box-sizing: border-box;
+        padding:0;
+        margin:300px;
+        width: auto;
+        background-color: grey;
+    }
+.home  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: 32px;
+    width: 1200px;
+    height: auto;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.home img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bolder;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.home p {
+    text-align: center;
+    text-transform:capitalize ;
+}
+    .About  {
+        width: 1200px;
+        height: auto;
+        font-size: 34px;
+        color: black;
+        margin-left: 300px;
+        margin-right: 300px;
+        text-align: center;
+    }
+    .About h1 {
+        text-align: center;
+    }
+    .About p {
+        width: 1200px;
+        font-size: 30px;
+        text-align: center;
+        font-size: 45px;
+    }
+.Services {
+    text-align: center;
+    width:1200px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    gap: 4rem;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+   .Services h2 {
+    text-align: center;
+   }
+      .aside {
+        border-color: black;
+        width: 400px;
+        height: 200px;
+        text-align: center;
+        font-size: 45px;
+        padding: 50px;
+      }
+      .Services img {
+        width: 70px;
+        height: 70px;
+      }
+      
+      .Skills li {
+        font-size: 25px;
+        text-align: center;
+        list-style: none;
+
+      }
+      .Skills {
+        width: 1200px;
+        height: auto;
+        font-size: 34px;
+        color: black;
+        margin-left: 300px;
+        margin-right: 300px;
+        text-align: center;
+      }
+      .Skills h1{
+        text-align: center;
+      }
+      .Skills p {
+        text-align: center;
+        font-size: 45px;
+        list-style: none;
+      }
+      footer{
+        text-align: center;
+        border-radius: 0%;
+        width: 1200px;
+    height: 200px;
+    padding: 20px;
+margin-left:400px ;
+margin-right:400px;
+text-decoration: 0;
+font-size: xx-large;
+list-style: none;
+box-sizing: border-box;
+background-color: #f3f3fa;
+text-align: center;
+
+      }
+      .heading h1 {
+        text-align: center;
+        font-size: 32px;
+        margin-left: 300px;
+        margin-right: 300px;
+      }
